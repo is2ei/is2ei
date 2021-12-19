@@ -11,7 +11,8 @@ You can find me on:
 
 I'm experienced in:
 
-![JavaScript](https://img.icons8.com/color/55/000000/javascript--v1.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![React](https://img.icons8.com/plasticine/48/000000/react.png)
 ![Golang](https://img.icons8.com/color/48/000000/golang.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![GCP](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 <a href="https://icons8.com/icon/6AGHyLA8bTw4/home">Home icon by Icons8</a><br />
 <a href="https://icons8.com/icon/447/linkedin">LinkedIn icon by Icons8</a><br />
 <a href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a><br />
+<a href="https://icons8.com/icon/NfbyHexzVEDk/react">React icon by Icons8</a><br />
 <a href="https://icons8.com/icon/44442/golang">Golang icon by Icons8</a><br />
 <a href="https://icons8.com/icon/33039/amazon-web-services">Amazon Web Services icon by Icons8</a><br />
 <a href="https://icons8.com/icon/20774/google-cloud-platform">Google Cloud Platform icon by Icons8</a>
