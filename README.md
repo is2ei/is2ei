@@ -6,13 +6,10 @@ You can find me on:
 [![homepage](https://img.icons8.com/ios/50/000000/home.png)][1]
 [![linkedin](https://img.icons8.com/ios/50/000000/linkedin.png)][2]
 
-[1]: https://www.is2ei.com/
-[2]: https://www.linkedin.com/in/horie
-
 I'm experienced in:
 
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![React](https://img.icons8.com/plasticine/48/000000/react.png)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)][3]
+[![React](https://img.icons8.com/plasticine/48/000000/react.png)][4]
 ![Golang](https://img.icons8.com/color/48/000000/golang.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![GCP](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
@@ -31,6 +28,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[1]: https://www.is2ei.com/
+[2]: https://www.linkedin.com/in/horie
+[3]: https://www.ecma-international.org/technical-committees/tc39/
+[4]: https://reactjs.org/
 
 ---
 <a href="https://icons8.com/icon/6AGHyLA8bTw4/home">Home icon by Icons8</a><br />
